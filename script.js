@@ -1,0 +1,1 @@
+import bootstrapIcons from "https://esm.sh/bootstrap-icons";

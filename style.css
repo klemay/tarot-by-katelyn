@@ -1,13 +1,9 @@
-html {
-    background: #130d42;
-}
 body {
   margin: 0;
   padding: 0;
-  background: #130d42;
-  background-image: url(https://github.com/klemay/klemay.github.io/blob/master/images/tarot-website-background.png?raw=true);
-  background-repeat: repeat;
-  font-family: "Atkinson Hyperlegible", sans-serif;
+ background: #130d42;
+    background-image: url(https://github.com/klemay/klemay.github.io/blob/master/images/tarot-website-background.png?raw=true);
+    background-repeat: repeat;  font-family: "Atkinson Hyperlegible", sans-serif;
   font-style: normal;
 }
 h1 {
@@ -21,7 +17,7 @@ h1 {
     rgba(84, 50, 105, 1) 50%
   );
   color: #f5f0f5;
-  margin-top: -8rem;
+  margin-top: 0;
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 2rem;

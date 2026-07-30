@@ -1,5 +1,10 @@
+html {
+    background: #130d42;
+}
 body {
-  background-color: #130d42;
+  margin: 0;
+  padding: 0;
+  background: #130d42;
   background-image: url(https://github.com/klemay/klemay.github.io/blob/master/images/tarot-website-background.png?raw=true);
   background-repeat: repeat;
   font-family: "Atkinson Hyperlegible", sans-serif;
@@ -7,9 +12,6 @@ body {
 }
 h1 {
   font-size: 3rem;
-}
-#page {
-  margin-top: 5rem;
 }
 #content {
   background: #130d42;
@@ -30,6 +32,7 @@ h1 {
   padding-top: 9rem;
 }
 #avatar {
+  margin-top: 5rem;
   height: 15rem;
 }
 #tagline {
